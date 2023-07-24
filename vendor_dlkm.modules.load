@@ -1,7 +1,10 @@
+kernel/crypto/crct10dif_common.ko
+kernel/crypto/crct10dif_generic.ko
 kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/pinctrl/pinctrl-slg51002.ko
 kernel/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 kernel/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
+kernel/drivers/soc/google/bcm_dbg.ko
 kernel/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
 kernel/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 kernel/drivers/regulator/slg51000-regulator.ko
@@ -10,6 +13,8 @@ kernel/drivers/block/null_blk/null_blk.ko
 kernel/drivers/misc/sbb-mux/sbb-mux.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/mfd/slg51002-core.ko
+kernel/drivers/scsi/scsi_debug.ko
+kernel/drivers/usb/gadget/function/usb_f_etr_miu.ko
 kernel/drivers/usb/typec/tcpm/google/usbc_cooling_dev.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/input/fingerprint/goodixfp.ko
@@ -17,6 +22,12 @@ kernel/drivers/thermal/samsung/gpu_cooling.ko
 kernel/drivers/perf/arm_dsu_pmu.ko
 kernel/drivers/pps/clients/pps-gpio.ko
 kernel/drivers/pps/pps_core.ko
+kernel/drivers/hwtracing/coresight/coresight.ko
+kernel/drivers/hwtracing/coresight/coresight-tmc.ko
+kernel/drivers/hwtracing/coresight/coresight-funnel.ko
+kernel/drivers/hwtracing/coresight/coresight-replicator.ko
+kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
+kernel/lib/crc-t10dif.ko
 extra/audiometrics.ko
 extra/bcmdhd4389.ko
 extra/bigocean.ko
