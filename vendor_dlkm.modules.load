@@ -31,14 +31,15 @@ kernel/lib/crc-t10dif.ko
 extra/audiometrics.ko
 extra/bcmdhd4389.ko
 extra/bigocean.ko
-extra/cl_dsp.ko
+extra/cl_dsp-core.ko
+extra/cs40l26-core.ko
+extra/cs40l26-i2c.ko
 extra/drv2624.ko
 extra/focal_touch.ko
 extra/goog_touch_interface.ko
 extra/google_dock.ko
 extra/google_dual_batt_gauge.ko
 extra/gxp.ko
-extra/input-cs40l26-i2c.ko
 extra/lwis.ko
 extra/mali_kbase.ko
 extra/mali_pixel.ko
