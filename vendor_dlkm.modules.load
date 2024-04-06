@@ -6,6 +6,7 @@ kernel/net/mac80211/mac80211.ko
 extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51000.ko
 extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51002.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51000-regulator.ko
+extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51000-core.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
