@@ -16,6 +16,7 @@ extra/private/google-modules/amplifiers/cs40l26/cs40l26-i2c.ko
 extra/private/google-modules/amplifiers/cs40l26/snd-soc-cs40l26.ko
 extra/private/google-modules/aoc/aoc_unit_test_dev.ko
 extra/private/google-modules/bluetooth/broadcom/nitrous.ko
+extra/private/google-modules/edgetpu/janeiro/drivers/edgetpu/janeiro.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
 extra/private/google-modules/gxp/gs201/gxp.ko
