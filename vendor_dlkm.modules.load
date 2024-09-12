@@ -63,7 +63,7 @@ extra/private/google-modules/uwb/qorvo/dw3000/kernel/net/mcps802154/mcps802154_r
 extra/private/google-modules/uwb/qorvo/dw3000/kernel/net/mcps802154/mcps802154_region_pctt.ko
 extra/private/google-modules/uwb/qorvo/dw3000/kernel/drivers/net/ieee802154/dw3000.ko
 extra/private/google-modules/uwb/qorvo/dw3000/kernel/drivers/net/ieee802154/dw3000-core-tests.ko
-extra/private/google-modules/video/gchips/bigwave.ko
+extra/private/google-modules/video/gchips_whi/bigocean.ko
 extra/private/google-modules/wlan/bcm4389/bcmdhd4389.ko
 extra/private/google-modules/wlan/wcn6740/cnss2/cnss_utils/cnss_utils.ko
 extra/private/google-modules/wlan/wcn6740/cnss2/cnss_utils/wlan_firmware_service.ko
