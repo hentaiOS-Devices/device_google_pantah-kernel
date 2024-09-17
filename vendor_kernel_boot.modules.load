@@ -70,7 +70,6 @@ extra/private/google-modules/soc/gs/drivers/soc/google/gcma/gcma.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pa_kill/pa_kill.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-debug.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-watchdog.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/sysrq-hook.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/dbgcore-dump.ko
@@ -103,6 +102,8 @@ extra/private/google-modules/soc/gs/drivers/usb/dwc3/dwc3-exynos-usb.ko
 extra/private/google-modules/soc/gs/drivers/usb/host/xhci-exynos.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_dm.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_dm1.ko
+extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
+extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_rndis.ko
 extra/private/google-modules/soc/gs/drivers/usb/typec/tcpm/google/google_tcpci_shim.ko
 extra/private/google-modules/soc/gs/drivers/usb/typec/tcpm/google/usb_psy.ko
 extra/private/google-modules/soc/gs/drivers/usb/typec/tcpm/google/tcpci_max77759.ko
@@ -132,6 +133,7 @@ extra/private/google-modules/soc/gs/drivers/devfreq/google/exynos_devfreq.ko
 extra/private/google-modules/soc/gs/drivers/performance/gs_perf_mon/gs_perf_mon.ko
 extra/private/google-modules/soc/gs/drivers/performance/lat_governors/gs_governor_memlat.ko
 extra/private/google-modules/soc/gs/drivers/performance/lat_governors/gs_governor_utils.ko
+extra/private/google-modules/soc/gs/drivers/iio/power/odpm-whi.ko
 extra/private/google-modules/soc/gs/drivers/bts/bts.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zram_gs.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
@@ -189,6 +191,8 @@ extra/private/google-modules/display/samsung/exynos-drm.ko
 extra/private/google-modules/display/samsung/exynos-drm-audio.ko
 extra/private/google-modules/gps/broadcom/bcm47765/bcm47765.ko
 extra/private/google-modules/gps/broadcom/bcm47765/bbd_pps_gpio.ko
+extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
+extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
 extra/private/google-modules/nfc/st21nfc.ko
 extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/nfc/ese/st33spi.ko

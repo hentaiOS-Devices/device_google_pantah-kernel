@@ -1,8 +1,3 @@
-kernel/drivers/hwtracing/coresight/coresight.ko
-kernel/drivers/hwtracing/coresight/coresight-tmc.ko
-kernel/drivers/hwtracing/coresight/coresight-funnel.ko
-kernel/drivers/hwtracing/coresight/coresight-replicator.ko
-kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
 kernel/net/wireless/cfg80211.ko
 kernel/net/mac80211/mac80211.ko
 extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51000.ko
@@ -11,9 +6,7 @@ extra/private/google-modules/soc/gs/drivers/regulator/slg51000-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51000-core.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
-extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
-extra/private/google-modules/soc/gs/drivers/iio/power/odpm-whi.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41-i2c.ko
 extra/private/google-modules/amplifiers/cs35l45/snd-soc-cs35l45-i2c.ko
 extra/private/google-modules/amplifiers/cs40l26_whi/cl_dsp-core.ko
@@ -46,8 +39,6 @@ extra/private/google-modules/display/samsung/panel/panel-common.ko
 extra/private/google-modules/edgetpu/janeiro/drivers/edgetpu/janeiro.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
-extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
-extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
 extra/private/google-modules/gxp/gs201/gxp.ko
 extra/private/google-modules/lwis/lwis.ko
 extra/private/google-modules/misc/sscoredump/sscoredump_test.ko
