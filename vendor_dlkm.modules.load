@@ -8,6 +8,7 @@ extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51000-core.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
+extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_rndis.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
 extra/private/google-modules/soc/gs/drivers/iio/power/odpm-whi.ko
 extra/private/google-modules/soc/gs/drivers/video/backlight/rt4539_bl.ko
