@@ -8,7 +8,6 @@ extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51000-core.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
-extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_rndis.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
 extra/private/google-modules/soc/gs/drivers/iio/power/odpm-whi.ko
 extra/private/google-modules/soc/gs/drivers/video/backlight/rt4539_bl.ko
@@ -41,7 +40,7 @@ extra/private/google-modules/gxp/gs201/gxp.ko
 extra/private/google-modules/lwis/lwis.ko
 extra/private/google-modules/misc/sscoredump/sscoredump_test.ko
 extra/private/google-modules/misc/sscoredump/sscoredump_sample_test.ko
-extra/private/google-modules/video/gchips_whi/bigocean.ko
+extra/private/google-modules/video/gchips/bigwave.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41-i2c.ko
 extra/private/google-modules/amplifiers/cs35l45/snd-soc-cs35l45-i2c.ko
 extra/private/google-modules/amplifiers/cs40l26/cl_dsp-core.ko
