@@ -67410,11 +67410,11 @@ ffffffc00945b418 D kallsyms_markers
 ffffffc00945ba48 D kallsyms_seqs_of_names
 ffffffc0094a5d00 D kallsyms_token_table
 ffffffc0094a6090 D kallsyms_token_index
-ffffffc0094d5f89 d trunc_msg
-ffffffc0094da08f d f_midi_shortname
-ffffffc0095081aa d max_tt_usecs
-ffffffc0095187a9 d f_midi_longname
-ffffffc00952eb1e d pty_line_name.ptychar
+ffffffc0094d5fba d trunc_msg
+ffffffc0094da0c0 d f_midi_shortname
+ffffffc0095081fe d max_tt_usecs
+ffffffc0095187fd d f_midi_longname
+ffffffc00952eb4f d pty_line_name.ptychar
 ffffffc0095598e7 d task_index_to_char.state_char
 ffffffc0095598e7 d task_index_to_char.state_char
 ffffffc0095598e7 d task_index_to_char.state_char
