@@ -7,6 +7,5 @@ blocklist sscoredump_test.ko
 
 blocklist bcmdhd4389
 blocklist cs40l26_i2c
-blocklist goodix_brl_touch
 blocklist sec_touch
 blocklist syna_touch
