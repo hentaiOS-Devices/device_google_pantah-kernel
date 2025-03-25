@@ -10,7 +10,6 @@ extra/private/google-modules/soc/gs/drivers/mfd/slg51000-core.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
-extra/private/google-modules/soc/gs/drivers/input/fps_touch_handler/fps_touch_handler.ko
 extra/private/google-modules/soc/gs/drivers/iio/power/odpm-whi.ko
 extra/private/google-modules/soc/gs/drivers/pwm/pwm-exynos.ko
 extra/private/google-modules/soc/gs/drivers/video/backlight/rt4539_bl.ko
@@ -36,6 +35,7 @@ extra/private/google-modules/bms/hl7132.ko
 extra/private/google-modules/display/common/gs_panel/gs-panel.ko
 extra/private/google-modules/display/samsung/panel/panel-common.ko
 extra/private/google-modules/edgetpu/janeiro/drivers/edgetpu/janeiro.ko
+extra/private/google-modules/fingerprint/goodix/fps_touch_handler/fps_touch_handler.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
 extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
